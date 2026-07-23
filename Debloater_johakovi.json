@@ -11,13 +11,19 @@
       "packageName": "com.samsung.android.app.parentalcare"
     },
     {
-      "packageName": "com.samsung.gpuwatchapp"
-    },
-    {
       "packageName": "com.samsung.android.bixby.agent"
     },
     {
       "packageName": "com.samsung.android.mocca"
+    },
+    {
+      "packageName": "com.google.android.verifier"
+    },
+    {
+      "packageName": "com.samsung.android.knox.kpecore"
+    },
+    {
+      "packageName": "com.samsung.gpuwatchapp"
     },
     {
       "packageName": "com.samsung.android.fast"
@@ -33,6 +39,9 @@
     },
     {
       "packageName": "com.google.android.gms.supervision"
+    },
+    {
+      "packageName": "com.samsung.android.dkey"
     },
     {
       "packageName": "com.samsung.android.kidsinstaller"
@@ -107,6 +116,9 @@
       "packageName": "com.android.hotwordenrollment.okgoogle"
     },
     {
+      "packageName": "com.samsung.app.newtrim"
+    },
+    {
       "packageName": "com.samsung.oda.service"
     },
     {
@@ -119,6 +131,9 @@
       "packageName": "com.samsung.android.rampart"
     },
     {
+      "packageName": "com.google.android.apps.tachyon"
+    },
+    {
       "packageName": "com.sec.modem.settings"
     },
     {
@@ -126,6 +141,9 @@
     },
     {
       "packageName": "com.mygalaxy.service"
+    },
+    {
+      "packageName": "com.sec.android.app.ve.vebgm"
     },
     {
       "packageName": "com.samsung.android.app.camera.sticker.facearavatar.preload"
@@ -144,6 +162,9 @@
     },
     {
       "packageName": "com.samsung.SMT.lang_hi_in_f00"
+    },
+    {
+      "packageName": "com.samsung.android.knox.attestation"
     },
     {
       "packageName": "com.samsung.android.mapsagent"
@@ -200,6 +221,9 @@
       "packageName": "com.samsung.SMT.lang_fr_fr_f00"
     },
     {
+      "packageName": "com.samsung.SMT.lang_ru_ru_f00"
+    },
+    {
       "packageName": "com.samsung.SMT.lang_es_es_f00"
     },
     {
@@ -237,6 +261,9 @@
     },
     {
       "packageName": "com.samsung.SMT.lang_ar_ae_m00"
+    },
+    {
+      "packageName": "com.sec.android.app.vepreload"
     },
     {
       "packageName": "com.google.android.gms.location.history"
